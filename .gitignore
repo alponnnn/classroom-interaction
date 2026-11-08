@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Office temp files
+~$*
+*.tmp
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Dependencies (not used by the static prototype, listed for completeness)
+node_modules/
+
+# Large media — record the demo video separately, do not commit it
+*.mp4
+*.mov
